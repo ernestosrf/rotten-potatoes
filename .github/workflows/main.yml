@@ -27,3 +27,4 @@ jobs:
           tags: 
             ernestosrf/rotten-potatoes:latest
             ernestosrf/rotten-potatoes:${{ github.run_number }}
+ 

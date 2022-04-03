@@ -26,5 +26,5 @@ jobs:
           push: true
           tags: |
             ernestosrf/rotten-potatoes:latest
-            ernestosrf/rotten-potatoes:2
+            ernestosrf/rotten-potatoes:${{github.run_number}}
  

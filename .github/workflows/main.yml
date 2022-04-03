@@ -24,7 +24,7 @@ jobs:
           context: ./src
           file: ./src/Dockerfile
           push: true
-          tags: 
+          tags: |
             ernestosrf/rotten-potatoes:latest
             ernestosrf/rotten-potatoes:2
  
